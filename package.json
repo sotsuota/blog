@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "1.0.0",
   "description": "kahiru&#39;s blog",
-  "author": "kahirunet",
+  "author": "Hikaru Shiota",
   "private": true,
   "scripts": {
     "dev": "nuxt",
